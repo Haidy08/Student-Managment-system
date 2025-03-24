@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Presention\CoursF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\Cros_SessionF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\Cros_StuF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\Crs_Session_AttF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\DepartmentF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presention\InstructorF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presention\Signup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Presention\StudentF.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Presention\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
