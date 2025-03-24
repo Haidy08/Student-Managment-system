@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\coursf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\coursf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\cros_sessionf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\cros_sessionf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\cros_stuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\cros_stuf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\crs_session_attf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\crs_session_attf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\departmentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\departmentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\instructorf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\instructorf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|d:\\iti\\efw.hatem\\project\\projectefcoresolution\\projectefcore\\presention\\studentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86156E97-F66E-4755-91E4-736825F070D9}|ProjectEFCore\\ProjectEFCore.csproj|solutionrelative:projectefcore\\presention\\studentf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\StudentF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\StudentF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\StudentF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\StudentF.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAADwv5MAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:24.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InstructorF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\InstructorF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\InstructorF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\InstructorF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\InstructorF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:21.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DepartmentF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\DepartmentF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\DepartmentF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\DepartmentF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\DepartmentF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:18.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crs_Session_AttF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Crs_Session_AttF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\Crs_Session_AttF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Crs_Session_AttF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\Crs_Session_AttF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:15.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cros_StuF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Cros_StuF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\Cros_StuF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Cros_StuF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\Cros_StuF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cros_SessionF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Cros_SessionF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\Cros_SessionF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Cros_SessionF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\Cros_SessionF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:10.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursF.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\CoursF.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\CoursF.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\CoursF.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\CoursF.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:02.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form.cs [Design]",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Form.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\Form.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\Form.cs [Design]",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T04:37:18.571Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\UserControl1.cs",
+              "RelativeDocumentMoniker": "ProjectEFCore\\Presention\\UserControl1.cs",
+              "ToolTip": "D:\\ITI\\EFW.Hatem\\project\\ProjectEFCoreSolution\\ProjectEFCore\\Presention\\UserControl1.cs",
+              "RelativeToolTip": "ProjectEFCore\\Presention\\UserControl1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T05:30:26.734Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
